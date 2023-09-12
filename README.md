@@ -1,5 +1,6 @@
-<h2 align="center">Hi 👋! My name is Amir Mostafa Haji Sadeghian and.<br>I'm a software engineer 🙂</h2>
+<font size="6" align="center">Hi 👋! My name is Amir Mostafa Haji Sadeghian and.<br>I'm a software engineer 🙂</font>
 <img src="./assets/javascript.gif"  />
+<hr>
 
 ###
 

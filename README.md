@@ -1,4 +1,4 @@
-<p size="10" align="center">Hi 👋! My name is Amir Mostafa Haji Sadeghian and.<br>I'm a software engineer 🙂</p>
+## <p align="center">Hi 👋! My name is Amir Mostafa Haji Sadeghian and.<br>I'm a software engineer 🙂</p>
 <img src="./assets/javascript.gif"  />
 
 

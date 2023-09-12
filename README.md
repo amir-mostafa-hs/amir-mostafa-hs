@@ -1,4 +1,4 @@
-<img align="right" height="150" src="./assets/javascript.gif"  />
+<img src="./assets/javascript.gif"  />
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<img align="right" height="150" src="./assets/developer.gif"  />
+<img align="right" height="150" border="2px solid gray" src="./assets/developer.gif"  />
 
 ###
 

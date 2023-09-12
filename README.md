@@ -11,8 +11,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amir-mostafa-hs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
----
-
 ###
 
 <img align="right" height="150" src="./assets/developer.gif"  />
@@ -94,8 +92,6 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
-
----
 
 ###
 

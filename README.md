@@ -14,11 +14,11 @@
 
 ###
 
-<img align="right" height="150" border="2px solid gray" src="./assets/developer.gif"  />
+<img align="right" height="150" src="./assets/developer.gif"  />
 
 ###
 
-<div align="center">
+<div align="center" style="background-color: whitesmoke;" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />

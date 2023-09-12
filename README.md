@@ -1,9 +1,7 @@
-<img src="./assets/javascript.gif"  />
-
 ###
 
 <h2 align="center">Hi 👋! My name is Amir Mostafa Haji Sadeghian and.<br>I'm a software engineer 🙂</h2>
-
+<img src="./assets/javascript.gif"  />
 ###
 
 <div align="center">
@@ -18,7 +16,7 @@
 
 ###
 
-<div align="center" style="background-color: whitesmoke;" >
+<div align="center" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />

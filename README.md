@@ -1,4 +1,5 @@
-## <p align="center">Hi 👋! My name is Amir Mostafa Haji Sadeghian and.<br>I'm a software engineer 🙂</p>
+<h2 align="center">Hi 👋! My name is Amir Mostafa Haji Sadeghian and.<br>I'm a software engineer 🙂</h2>
+
 <img src="./assets/javascript.gif"  />
 
 
@@ -9,6 +10,8 @@
   <img src="https://streak-stats.demolab.com?user=amir-mostafa-hs&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amir-mostafa-hs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+---
 
 ###
 
@@ -91,6 +94,8 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
+
+---
 
 ###
 

@@ -91,9 +91,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/amir-mostafa-hs/amir-mostafa-hs/output/snake.svg" alt="Snake animation" />
-
-###

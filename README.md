@@ -1,3 +1,7 @@
+<img align="right" height="150" src="./assets/javascript.gif"  />
+
+###
+
 <h2 align="center">Hi 👋! My name is Amir Mostafa Haji Sadeghian and.<br>I'm a software engineer 🙂</h2>
 
 ###
@@ -10,7 +14,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif"  />
+<img align="right" height="150" src="./assets/developer.gif"  />
 
 ###
 
@@ -89,5 +93,9 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
+
+###
+
+<img src="./assets/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###

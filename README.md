@@ -133,6 +133,10 @@ At **APSignals**, I progressed from student and intern/co-mentor to developer an
 
 </div>
 
----
+### Contribution Activity
 
-<img src="./assets/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+<!-- BEGIN ACTIVITY-GRAPH -->
+<p align="center">
+  <img src="./activity-graph.svg" alt="Animated GitHub contribution activity" width="100%" />
+</p>
+<!-- END ACTIVITY-GRAPH -->
